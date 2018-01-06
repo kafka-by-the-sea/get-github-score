@@ -1,0 +1,957 @@
+[
+    {
+      "id": "6960349145",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113523715,
+        "name": "cora-chou/get-github-score",
+        "url": "https://api.github.com/repos/cora-chou/get-github-score"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:53:27Z"
+    },
+    {
+      "id": "6960349093",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113523715,
+        "name": "cora-chou/get-github-score",
+        "url": "https://api.github.com/repos/cora-chou/get-github-score"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:53:26Z"
+    },
+    {
+      "id": "6960315637",
+      "type": "WatchEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113520078,
+        "name": "cora-chou/binary-to-decimal",
+        "url": "https://api.github.com/repos/cora-chou/binary-to-decimal"
+      },
+      "payload": {
+        "action": "started"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:40:40Z"
+    },
+    {
+      "id": "6960312887",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113520078,
+        "name": "cora-chou/binary-to-decimal",
+        "url": "https://api.github.com/repos/cora-chou/binary-to-decimal"
+      },
+      "payload": {
+        "push_id": 2180218751,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "ac10955992aa47b7e3242f9d3942c5b698a663f5",
+        "before": "2c0db2c01cf13d3d578eae93ff5fe2ca76533db0",
+        "commits": [
+          {
+            "sha": "ac10955992aa47b7e3242f9d3942c5b698a663f5",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "比較兩種寫法的可讀性",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/binary-to-decimal/commits/ac10955992aa47b7e3242f9d3942c5b698a663f5"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:39:36Z"
+    },
+    {
+      "id": "6960239389",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113520078,
+        "name": "cora-chou/binary-to-decimal",
+        "url": "https://api.github.com/repos/cora-chou/binary-to-decimal"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": "很經典的題目類型，看如何用collect來實作",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:11:16Z"
+    },
+    {
+      "id": "6960239327",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113520078,
+        "name": "cora-chou/binary-to-decimal",
+        "url": "https://api.github.com/repos/cora-chou/binary-to-decimal"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": "很經典的題目類型，看如何用collect來實作",
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:11:15Z"
+    },
+    {
+      "id": "6960222891",
+      "type": "WatchEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113517610,
+        "name": "cora-chou/extracting-a-chunk",
+        "url": "https://api.github.com/repos/cora-chou/extracting-a-chunk"
+      },
+      "payload": {
+        "action": "started"
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:05:00Z"
+    },
+    {
+      "id": "6960219386",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113517610,
+        "name": "cora-chou/extracting-a-chunk",
+        "url": "https://api.github.com/repos/cora-chou/extracting-a-chunk"
+      },
+      "payload": {
+        "push_id": 2180169453,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "6bd4300ef3c716a2c4727aad88d20c2d4d9c3a3b",
+        "before": "460574b59d1d7dba1a8b9b74bee082cbe20c75e2",
+        "commits": [
+          {
+            "sha": "6bd4300ef3c716a2c4727aad88d20c2d4d9c3a3b",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "切割array的實用小技法",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/extracting-a-chunk/commits/6bd4300ef3c716a2c4727aad88d20c2d4d9c3a3b"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-08T02:03:39Z"
+    },
+    {
+      "id": "6960193652",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "push_id": 2180155669,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "b4557f5734efaf24e8dd18299daa246ca5f77010",
+        "before": "aeedfcb5cb5fffb598ba7e91747205fe6278a9ac",
+        "commits": [
+          {
+            "sha": "b4557f5734efaf24e8dd18299daa246ca5f77010",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "修正錯誤的路徑",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets/commits/b4557f5734efaf24e8dd18299daa246ca5f77010"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:53:56Z"
+    },
+    {
+      "id": "6960188681",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "push_id": 2180153016,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "aeedfcb5cb5fffb598ba7e91747205fe6278a9ac",
+        "before": "51c1200846994fac79e7680ef3a1014ec4f27578",
+        "commits": [
+          {
+            "sha": "aeedfcb5cb5fffb598ba7e91747205fe6278a9ac",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "把collection類別加上去",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets/commits/aeedfcb5cb5fffb598ba7e91747205fe6278a9ac"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:52:00Z"
+    },
+    {
+      "id": "6960159464",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113517610,
+        "name": "cora-chou/extracting-a-chunk",
+        "url": "https://api.github.com/repos/cora-chou/extracting-a-chunk"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:41:03Z"
+    },
+    {
+      "id": "6960159420",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113517610,
+        "name": "cora-chou/extracting-a-chunk",
+        "url": "https://api.github.com/repos/cora-chou/extracting-a-chunk"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:41:02Z"
+    },
+    {
+      "id": "6960089974",
+      "type": "WatchEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "action": "started"
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:15:16Z"
+    },
+    {
+      "id": "6960083300",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "push_id": 2180097370,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "51c1200846994fac79e7680ef3a1014ec4f27578",
+        "before": "253174eaab6cb06dcbe2d263a3152976107b7c97",
+        "commits": [
+          {
+            "sha": "51c1200846994fac79e7680ef3a1014ec4f27578",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "比較兩種程式風格的可讀性寫法",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets/commits/51c1200846994fac79e7680ef3a1014ec4f27578"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-08T01:12:48Z"
+    },
+    {
+      "id": "6960032156",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T00:54:21Z"
+    },
+    {
+      "id": "6960032126",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113514178,
+        "name": "cora-chou/pricing-lamps-and-wallets",
+        "url": "https://api.github.com/repos/cora-chou/pricing-lamps-and-wallets"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-08T00:54:20Z"
+    },
+    {
+      "id": "6957678785",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178840508,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "90b91cd0c3423487dcdf1360efc7fa77fd25ba78",
+        "before": "eb571eb512bac5312d3b8def2a23dc1bde1b37fa",
+        "commits": [
+          {
+            "sha": "90b91cd0c3423487dcdf1360efc7fa77fd25ba78",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "修改說明",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/90b91cd0c3423487dcdf1360efc7fa77fd25ba78"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:48:34Z"
+    },
+    {
+      "id": "6957628566",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113458433,
+        "name": "cora-chou/Imperative-Declarative-Programming",
+        "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming"
+      },
+      "payload": {
+        "push_id": 2178814703,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "0cd2ad3be35de94eeadfb856da735a2ee01c78ac",
+        "before": "2e18e579ef091873ad2e3447f7c059b0a706b2ef",
+        "commits": [
+          {
+            "sha": "0cd2ad3be35de94eeadfb856da735a2ee01c78ac",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "修正排版",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming/commits/0cd2ad3be35de94eeadfb856da735a2ee01c78ac"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:39:57Z"
+    },
+    {
+      "id": "6957548760",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178773688,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "eb571eb512bac5312d3b8def2a23dc1bde1b37fa",
+        "before": "c0de0104659f301085640278c894471d520f0dfd",
+        "commits": [
+          {
+            "sha": "eb571eb512bac5312d3b8def2a23dc1bde1b37fa",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "如何使用collection",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/eb571eb512bac5312d3b8def2a23dc1bde1b37fa"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:26:07Z"
+    },
+    {
+      "id": "6957537489",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178767781,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "c0de0104659f301085640278c894471d520f0dfd",
+        "before": "b6462ea459c9a773afbf17b671ace8511999a56f",
+        "commits": [
+          {
+            "sha": "c0de0104659f301085640278c894471d520f0dfd",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "如何使用collection",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/c0de0104659f301085640278c894471d520f0dfd"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:24:09Z"
+    },
+    {
+      "id": "6957533452",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178765608,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "b6462ea459c9a773afbf17b671ace8511999a56f",
+        "before": "f2c723e0424874b6267170564255f5600ac8a52a",
+        "commits": [
+          {
+            "sha": "b6462ea459c9a773afbf17b671ace8511999a56f",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "如何使用collection",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/b6462ea459c9a773afbf17b671ace8511999a56f"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:23:27Z"
+    },
+    {
+      "id": "6957529985",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178763769,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "f2c723e0424874b6267170564255f5600ac8a52a",
+        "before": "db4a7e0cae3feb0dcbf671ca3bc691ba5aa0de98",
+        "commits": [
+          {
+            "sha": "f2c723e0424874b6267170564255f5600ac8a52a",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "如何使用collection",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/f2c723e0424874b6267170564255f5600ac8a52a"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:22:50Z"
+    },
+    {
+      "id": "6957464756",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "push_id": 2178729781,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "db4a7e0cae3feb0dcbf671ca3bc691ba5aa0de98",
+        "before": "ff571ccbe26dc739f54b42ef797083daba761633",
+        "commits": [
+          {
+            "sha": "db4a7e0cae3feb0dcbf671ca3bc691ba5aa0de98",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "如何使用collection",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Introducing-Collections/commits/db4a7e0cae3feb0dcbf671ca3bc691ba5aa0de98"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:11:13Z"
+    },
+    {
+      "id": "6957447307",
+      "type": "WatchEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "action": "started"
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:07:58Z"
+    },
+    {
+      "id": "6957441456",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "ref": "master",
+        "ref_type": "branch",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:06:53Z"
+    },
+    {
+      "id": "6957441357",
+      "type": "CreateEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113465069,
+        "name": "cora-chou/Introducing-Collections",
+        "url": "https://api.github.com/repos/cora-chou/Introducing-Collections"
+      },
+      "payload": {
+        "ref": null,
+        "ref_type": "repository",
+        "master_branch": "master",
+        "description": null,
+        "pusher_type": "user"
+      },
+      "public": true,
+      "created_at": "2017-12-07T15:06:52Z"
+    },
+    {
+      "id": "6957397876",
+      "type": "WatchEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113458433,
+        "name": "cora-chou/Imperative-Declarative-Programming",
+        "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming"
+      },
+      "payload": {
+        "action": "started"
+      },
+      "public": true,
+      "created_at": "2017-12-07T14:59:17Z"
+    },
+    {
+      "id": "6957388135",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113458433,
+        "name": "cora-chou/Imperative-Declarative-Programming",
+        "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming"
+      },
+      "payload": {
+        "push_id": 2178689883,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "2e18e579ef091873ad2e3447f7c059b0a706b2ef",
+        "before": "c320aeb3a80eb22bdd3cf7000acfaad7ed582768",
+        "commits": [
+          {
+            "sha": "2e18e579ef091873ad2e3447f7c059b0a706b2ef",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "整理程式碼",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming/commits/2e18e579ef091873ad2e3447f7c059b0a706b2ef"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T14:57:33Z"
+    },
+    {
+      "id": "6957381637",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113458433,
+        "name": "cora-chou/Imperative-Declarative-Programming",
+        "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming"
+      },
+      "payload": {
+        "push_id": 2178686475,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "c320aeb3a80eb22bdd3cf7000acfaad7ed582768",
+        "before": "ef57517ec2439ed5fc9380621f136bfe185fe7b8",
+        "commits": [
+          {
+            "sha": "c320aeb3a80eb22bdd3cf7000acfaad7ed582768",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "整理程式碼",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming/commits/c320aeb3a80eb22bdd3cf7000acfaad7ed582768"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T14:56:23Z"
+    },
+    {
+      "id": "6957375913",
+      "type": "PushEvent",
+      "actor": {
+        "id": 19283379,
+        "login": "cora-chou",
+        "display_login": "cora-chou",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/cora-chou",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19283379?"
+      },
+      "repo": {
+        "id": 113458433,
+        "name": "cora-chou/Imperative-Declarative-Programming",
+        "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming"
+      },
+      "payload": {
+        "push_id": 2178683472,
+        "size": 1,
+        "distinct_size": 1,
+        "ref": "refs/heads/master",
+        "head": "ef57517ec2439ed5fc9380621f136bfe185fe7b8",
+        "before": "0e17fa7ecea0356849dd86ca3a44140cc6cf1794",
+        "commits": [
+          {
+            "sha": "ef57517ec2439ed5fc9380621f136bfe185fe7b8",
+            "author": {
+              "email": "phchou220@gmail.com",
+              "name": "cora-chou"
+            },
+            "message": "整理程式碼",
+            "distinct": true,
+            "url": "https://api.github.com/repos/cora-chou/Imperative-Declarative-Programming/commits/ef57517ec2439ed5fc9380621f136bfe185fe7b8"
+          }
+        ]
+      },
+      "public": true,
+      "created_at": "2017-12-07T14:55:21Z"
+    }
+  ]
